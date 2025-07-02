@@ -1,6 +1,6 @@
 # Demo
 This is for practice
 # teacher
-shradha khapra
+Ms. shradha khapra
 # student
-Harsh Kumar Gupta
+Harsh kumar
